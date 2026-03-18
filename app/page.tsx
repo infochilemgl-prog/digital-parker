@@ -8,7 +8,7 @@ import {
   AccordionItem,
   AccordionTrigger,
   AccordionContent,
-} from "../components/ui/accordion";
+} from "@/components/ui/accordion"
 import {
   ArrowRight,
   Check,
