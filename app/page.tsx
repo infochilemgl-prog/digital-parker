@@ -1,7 +1,6 @@
 // @ts-nocheck
 "use client";
-// @ts-nocheck
-// @ts-nocheck
+
 import React, { useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import {
